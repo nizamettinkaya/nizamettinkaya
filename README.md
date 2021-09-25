@@ -2,7 +2,7 @@
 ## Hi there. I'm Nizamettin KAYA👋
 
 
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React |
+- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React |Vue)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 💬 Ask me about anything that you want to learn 
 
