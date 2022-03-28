@@ -12,7 +12,7 @@
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15332051/nizamettin-kaya)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/nzmttnk@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](###)<br>
-Phone: 90534 3468430 <br>
+Phone: 072 7776428 <br>
 Email: kaya_nk@hotmail.com
 
 <p align="left"> <img src="./" alt="nizamettinkaya" /> </p>
