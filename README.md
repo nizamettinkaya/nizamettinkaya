@@ -1,9 +1,6 @@
-# nizamettin-kaya
+# Nizamettin-KAYA
 ## Hi there. I'm Nizamettin KAYA👋
-
-
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React |Vue)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+I am ready for a Full Stack Developer role
 - 💬 Ask me about anything that you want to learn 
 
 ## 👨👩 Social
