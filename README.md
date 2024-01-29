@@ -1,13 +1,17 @@
  Nizamettin-KAYA
+ <br>
 Hi there.👋
-I am ready for a Full Stack Developer role
-- 💬 Ask me about anything that you want to learn 
+<br>
+I am a Full Stack Developer
+<br>
+- 💬 Ask me about anything that you want to learn.
+  <br>
 
  👨👩 Social
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamettinkaya)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamettinkaya)  <br>
 Phone: 072 7776428 <br>
-Email: kaya_nk@hotmail.com
+Email: kaya_nk@hotmail.com  <br>
 
 
 
