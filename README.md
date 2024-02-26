@@ -1,6 +1,6 @@
- <h1>Nizamettin-KAYA </h1>
+ <h1>Nizamettin KAYA </h1>
  <br>
-Hi there,👋
+Hi there, 👋
 <br>
 
  <h5> I am a Full Stack Developer </h5>
