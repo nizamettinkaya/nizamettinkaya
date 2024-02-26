@@ -1,8 +1,9 @@
- Nizamettin-KAYA
+ <h1>Nizamettin-KAYA </h1>
  <br>
-Hi there.👋
+Hi there,👋
 <br>
-I am a Full Stack Developer
+
+ <h5> I am a Full Stack Developer </h5>
 
   <br>
 
