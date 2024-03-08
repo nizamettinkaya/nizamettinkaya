@@ -9,11 +9,11 @@
 
   <br>
 
- 👨👩 Social
+ 👨👩 Connect with me!
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamettinkaya)  <br>
  <br>
-Email: kaya_nk@hotmail.com  <br>
+
 
 
 
