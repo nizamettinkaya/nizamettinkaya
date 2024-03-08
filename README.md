@@ -4,6 +4,53 @@
 <br>
 
  <h4> I am a Full Stack Developer </h5>
+ <br>
+
+ <style>
+  .heart {
+    width: 100px;
+    height: 90px;
+    position: relative;
+    background-color: red;
+    transform: rotate(-45deg);
+    margin: 50px auto;
+    animation: heartbeat 1s infinite;
+  }
+  .heart::before,
+  .heart::after {
+    content: '';
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    border-radius: 100px 100px 0 0;
+    position: absolute;
+    top: 0;
+  }
+  .heart::before {
+    left: -50px;
+    transform: rotate(-45deg);
+  }
+  .heart::after {
+    left: 50px;
+    transform: rotate(45deg);
+  }
+
+  @keyframes heartbeat {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="heart"></div>
 
   <br>
 
