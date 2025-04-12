@@ -35,16 +35,19 @@
 
 ---
 
+### 🌍 Explore My Work:
+Check out my portfolio for more details about my projects and skills:
+<a href="https://nizamettinkaya.github.io/My-Portfolio/#home" target="_blank">
+  <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-%23ff5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio">
+</a>
+
+---
+
 ### 🔥 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nizamettinkaya&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamettinkaya&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
-
----
-
-### 🌐 My Portfolio:
-- Coming Soon!
 
 ---
 
