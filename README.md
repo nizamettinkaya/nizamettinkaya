@@ -1,38 +1,53 @@
- <h1>Nizamettin KAYA </h1>
- <br>
-<h1>Hi there, 👋  </h1>
-<br>
+<h1 align="center">Hi 👋, I'm Nizamettin Kaya</h1>
+<h3 align="center">A Passionate and Professional Full Stack Developer</h3>
 
- <h4> I am a Full Stack Developer </h5>
- <br>
+---
 
+### 👨‍💻 About Me:
+- 🚀 I specialize in building scalable web applications using modern technologies.
+- 💡 Passionate about learning and applying the latest trends in web development.
+- 🧩 Problem solver with hands-on experience in **TypeScript**, **Next.js**, **Express.js**, **SQL**, **Node.js**, and **ServiceNow**.
+- 🌱 Currently exploring **AI integrations** into web applications.
+- 💬 Ask me about **frontend** and **backend** development.
 
-  <br>
+---
 
- 👨👩 Connect with me!
+### 💼 Connect with Me:
+<a href="https://www.linkedin.com/in/nizamettinkaya" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamettinkaya)  <br>
- <br>
+---
 
+### 🛠️ Technologies I Work With:
 
+#### 💻 Frontend:
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="JavaScript" height="60"/></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" height="60"/></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" height="60"/></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nextjs_logo_icon_169524.png" alt="Next.js" height="60"/></a>
 
+#### 💻 Backend:
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_169922.png" alt="Node.js" height="60"/></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169847.png" alt="Express.js" height="60"/></a>
+<a href="#" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" alt="SQL" height="60"/></a>
+<a href="#" target="_blank"><img src="https://developer.servicenow.com/devportal/img/favicons/android-chrome-512x512.png" alt="ServiceNow" height="60"/></a>
 
- 💻 Frontend
+---
 
+### 🔥 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nizamettinkaya&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamettinkaya&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
 
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
+---
 
+### 🌐 My Portfolio:
+- Coming Soon!
 
+---
 
-
- 💻 Backend
-
-<a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
-<a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
-
-
-
-
-
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nizamettinkaya" alt="Visitors">
+</p>
