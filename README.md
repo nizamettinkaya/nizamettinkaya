@@ -1,79 +1,166 @@
-<h1 align="center">Hi 👋, I'm Nizamettin Kaya</h1>
-<h3 align="center">Full Stack Developer | AI & Automation Specialist | AI Agent Builder | Entrepreneur</h3>
+# Hi, I'm Nizamettin Kaya 👋
+
+### Full Stack Developer · AI & Automation Engineer · Product Builder
+
+I build modern web applications, AI-powered systems, and automation solutions that solve practical problems. My focus is on turning ideas into usable products, connecting technologies through APIs, and building reliable systems that deliver real value.
+
+- 🚀 Building products in **AI transparency, compliance, and workflow automation**
+- 🤖 Developing AI integrations, agents, and intelligent automation workflows
+- 💻 Working with React, TypeScript, Node.js, REST APIs, and modern web technologies
+- 🔗 Exploring AI agents, MCP, n8n, and API orchestration
+- 🌍 Based in Sweden, interested in technology that makes businesses more efficient
 
 ---
 
-### 🚀 About Me
-- 🔹 **Full Stack Developer** with strong expertise in **React, Next.js, Node.js, Express.js, SQL, and ServiceNow**.  
-- 🔹 **AI & Automation Specialist**: I design and build **AI Agents**, intelligent workflows, and automation systems that save time and create measurable business value.  
-- 🔹 **Entrepreneurial Mindset**: Experienced in **rapid prototyping, business analysis, and cost modeling** to turn ideas into scalable products.  
-- 🔹 **Problem Solver**: Skilled at breaking down complex challenges into elegant, practical solutions.  
-- 🔹 **Global Vision**: Passionate about building tools that empower **job seekers, migrants, and businesses** through technology.  
-- 🔹 **Always Learning**: Currently mastering **advanced AI integrations** and exploring how **AI-driven systems** can transform industries.  
+## 🚀 Live Projects
+
+Products I'm actively building and developing.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://www.disclarion.com/">
+          <img src="https://www.google.com/s2/favicons?domain=disclarion.com&sz=128" width="72" height="72" alt="Disclarion logo"/>
+        </a>
+        <h3><a href="https://www.disclarion.com/">Disclarion</a></h3>
+        <strong>AI Transparency & Compliance Infrastructure</strong>
+      </div>
+      <p>Helping businesses make AI usage transparent through disclosure, AI-generated content labeling, and auditable records of AI transparency events.</p>
+      <p><strong>Focus:</strong></p>
+      <p>AI transparency · EU AI Act · Content labeling · Audit trails</p>
+      <p align="center">
+        <a href="https://www.disclarion.com/"><img src="https://img.shields.io/badge/Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Disclarion"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://flowonwork.se/">
+          <img src="https://www.google.com/s2/favicons?domain=flowonwork.se&sz=128" width="72" height="72" alt="FlowOnWork logo"/>
+        </a>
+        <h3><a href="https://flowonwork.se/">FlowOnWork</a></h3>
+        <strong>AI & Workflow Automation</strong>
+      </div>
+      <p>Building practical automation solutions that help businesses streamline repetitive tasks, connect their tools, and improve everyday workflows.</p>
+      <p><strong>Focus:</strong></p>
+      <p>AI automation · n8n · API integrations · Business workflows</p>
+      <p align="center">
+        <a href="https://flowonwork.se/"><img src="https://img.shields.io/badge/Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit FlowOnWork"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌟 What I Do
-- 🖥️ **Web Development**: Scalable, modern, and user-friendly applications.  
-- 🤖 **AI Agents**: Custom-built agents for automation, decision-making, and productivity.  
-- 🔗 **Workflow Automation**: End-to-end process automation with **n8n, MCP, and API integrations**.  
-- 📊 **Data-Driven Solutions**: Dashboards and analytics tools that turn raw data into actionable insights.  
-- 🌍 **Impact Projects**: Building platforms like **IT Job Finder SE** and **Voxrating** to help communities and businesses.  
+## 🛠️ Tech Stack
 
----
+### Frontend Development
 
-### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies"/>
+</p>
 
-#### 💻 Frontend
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="JavaScript" height="50"/></a>
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" height="50"/></a>
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" height="50"/></a>
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nextjs_logo_icon_169524.png" alt="Next.js" height="50"/></a>
+### Backend & Databases
 
-#### ⚙️ Backend & Databases
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nodejs_logo_icon_169922.png" alt="Node.js" height="50"/></a>
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169847.png" alt="Express.js" height="50"/></a>
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" alt="SQL" height="50"/></a>
-<a href="#"><img src="https://developer.servicenow.com/devportal/img/favicons/android-chrome-512x512.png" alt="ServiceNow" height="50"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,supabase,mysql" alt="Backend and database technologies"/>
+</p>
 
-#### 🤖 AI & Automation
-- **AI Agents** (custom-built for productivity & business automation)  
-- **Workflow Automation** with **n8n, MCP, API orchestration**  
-- **AI Integrations** into modern web applications  
-- **Data-driven decision systems** and intelligent dashboards  
+### AI, Automation & Integrations
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,openai,github" alt="AI and development tools"/>
+</p>
 
-### 📌 Featured Projects
-- 🔹 **IT Job Finder SE** – A platform helping job seekers in Sweden discover opportunities faster.  
-- 🔹 **Voxrating** – A review aggregation tool that simplifies decision-making for users.  
-- 🔹 **Automation Dashboards** – Custom-built systems for businesses to optimize workflows.  
-- 🔹 **AI Chat UI with MCP + React** – A tailored AI interface for seamless human–AI interaction.  
+- **AI Development:** LLM integrations, AI agents, prompt engineering, and AI-powered applications
+- **Workflow Automation:** n8n, MCP, API orchestration, and event-driven workflows
+- **Integrations:** REST APIs, webhooks, and third-party services
+- **Enterprise Platforms:** ServiceNow, Microsoft Power Platform, and Dynamics 365
 
----
+### Tools & Platforms
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nizamettinkaya&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamettinkaya&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare,vscode" alt="Development tools and platforms"/>
 </p>
 
 ---
 
-### 🌍 Explore My Work
-<a href="https://nizamettinkaya.github.io/My-Portfolio/#home" target="_blank">
-  <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-%23ff5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio">
-</a>
+## 💡 What I Build
+
+| Area | What I do |
+|---|---|
+| Full Stack Development | Responsive web applications, frontend architecture, backend services, and API development |
+| AI-Powered Applications | Integrating LLMs and AI capabilities into real-world products |
+| AI Agents & Automation | Automating business processes and connecting systems with APIs and workflow tools |
+| AI Transparency | Building solutions for AI disclosure, content labeling, and auditable transparency records |
+| Business Tools | Developing dashboards, integrations, and productivity-focused applications |
 
 ---
 
-### 💼 Connect with Me
-<a href="https://www.linkedin.com/in/nizamettinkaya" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+## 📌 Selected Projects
+
+### Disclarion
+AI transparency infrastructure designed to help businesses disclose AI usage, label AI-generated content, and maintain records that can be reviewed when needed.
+
+- Website: [disclarion.com](https://www.disclarion.com/)
+- npm: [n8n-nodes-disclarion](https://www.npmjs.com/package/n8n-nodes-disclarion)
+
+### FlowOnWork
+AI-powered workflow automation focused on helping businesses reduce manual work and connect their existing tools.
+
+- Website: [flowonwork.se](https://flowonwork.se/)
+
+### Other Development Projects
+
+- **IT Job Finder SE:** A platform concept focused on helping job seekers discover opportunities in Sweden.
+- **Voxrating:** A project focused on aggregating reviews to support informed decisions.
+- **AI Chat Interfaces:** AI-powered user interfaces and integrations for modern web applications.
 
 ---
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nizamettinkaya" alt="Visitors">
+  <img src="https://github-readme-stats.vercel.app/api?username=nizamettinkaya&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamettinkaya&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nizamettinkaya&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🌐 Explore My Work
+
+<p align="center">
+  <a href="https://nizamettinkaya.github.io/My-Portfolio/#home">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.disclarion.com/">
+    <img src="https://img.shields.io/badge/Disclarion-AI%20Transparency-2563EB?style=for-the-badge" alt="Disclarion"/>
+  </a>
+  <a href="https://flowonwork.se/">
+    <img src="https://img.shields.io/badge/FlowOnWork-Automation-0F766E?style=for-the-badge" alt="FlowOnWork"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nizamettinkaya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nizamettinkaya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+I'm interested in building useful products, solving technical challenges, and exploring practical applications of AI and automation.
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nizamettinkaya.nizamettinkaya" alt="Profile visitors"/>
 </p>
